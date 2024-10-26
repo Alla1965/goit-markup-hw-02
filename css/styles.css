@@ -4,7 +4,7 @@ body {
   background-color: #ffffff;
 }
 
-h1 {
+.head-one {
   font-family: Roboto;
   font-size: 56px;
   font-weight: 700;
@@ -13,7 +13,7 @@ h1 {
   letter-spacing: 0.02em;
   color: #ffffff;
 }
-button {
+.button-one {
   font-family: "Roboto", sans-serif;
   background-color: #4d5ae5;
   font-size: 16px;
@@ -56,10 +56,6 @@ button:focus {
   text-transform: capitalize;
   color: #2e2f42;
 }
-.our-team img {
-  width: 264px;
-  height: 260px;
-}
 .our-team h3 {
   font-family: Roboto;
   font-size: 20px;
@@ -78,10 +74,7 @@ button:focus {
   letter-spacing: 0.02em;
   color: #434455;
 }
-.our-portfolio img {
-  width: 360px;
-  height: 300px;
-}
+
 .our-portfolio h3 {
   font-family: Roboto;
   font-size: 20px;
@@ -119,6 +112,9 @@ button:focus {
 }
 .logo span {
   color: #2e2f42;
+}
+.logo-footer span {
+  color: #f4f4fd;
 }
 nav .link {
   font: weight 500px;
@@ -169,7 +165,7 @@ address .link {
 .section-one {
   background-color: #2e2f42;
 }
-.our-team li {
+.list-three {
   background-color: #ffffff;
 }
 .logo-studio {
