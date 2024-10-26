@@ -1,0 +1,72 @@
+.link {
+        font-family: Roboto;
+        font-size: 16px;
+       }
+       h1 {
+             font-family: Roboto;
+            font-size: 56px;
+            font-weight: 700;
+             text-align: center;
+       }
+       button {
+             font-family: Roboto;
+            font-size: 16px;
+            font-weight: 500;
+                   }
+        .advantages p {
+                 font-family: Roboto;
+                font-size: 16px;
+                font-weight: 400;
+                       }
+          .advantages h3 {
+                font-family: Roboto;
+                font-size: 20px;
+                font-weight: 500;
+              }
+.head-2 {
+
+    font-family: Roboto;
+    font-size: 36px;
+    font-weight: 700;
+    text-align: center;
+}
+.our-team img{
+    width: 264px;
+    height: 260px;
+    }
+  .our-team h3 {
+            font-family: Roboto;
+        font-size: 20px;
+        font-weight: 500;
+        text-align: center;
+  }
+  .our-team p {
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 400;
+        text-align: center;
+  }
+  .our-portfolio img {
+        width: 360px;
+        height: 300px;
+        }
+  .our-portfolio h3 {
+             font-family: Roboto;
+            font-size: 20px;
+            font-weight: 500;
+                     }
+  .our-portfolio p {
+        font-family: Roboto;
+        font-size: 16px;
+        font-weight: 400;
+          }
+          .logo {
+            font-family: Raleway;
+                font-size: 18px;
+                font-weight: 700;
+             }
+            .text-footer {
+                    font-family: Roboto;
+                    font-size: 16px;
+                    font-weight: 400;
+              }
