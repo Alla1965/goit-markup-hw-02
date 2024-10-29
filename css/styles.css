@@ -170,3 +170,9 @@ address .link {
 .basement .logo-footer {
 	color: #f4f4fd;
 }
+a {
+	text-decoration: none;
+}
+ul {
+	list-style: disc;
+}
